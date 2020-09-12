@@ -1,5 +1,5 @@
 
-![Image of Yaktocat](https://www.xoxly.com/wp-content/uploads/2017/12/ogp.png)
+![Image of Yaktocat](https://github.com/priyanka1901/Prediction-of-house-prices/blob/master/mercari.jpg)
 
 ## Mercari Price Suggestion Challenge
 **Can you automatically suggest product prices to online sellers?**
